@@ -1,5 +1,4 @@
 # holbertonschool-web-development
-![Alt text](img.jpg)
 The project involves implementing a webpage using HTML focusing exclusively on the semantic structure without any CSS or styling the design for the webpage is provided through a Figma designer file which users can access after creating a Figma account the goal is to faithfully translate the visual design into a meaningful HTML structure
 Here are the key components of the project:
 1-Figma Designer File
